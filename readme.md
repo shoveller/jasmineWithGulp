@@ -1,4 +1,4 @@
-git remote add origin https://github.com/shoveller/jasmineWithGulp.git 소스입니다.  
+gulp + gulp-liveload + gulp-jasmine의 테스트 소스입니다.  
 
 *** 설치 ***  
 ```
